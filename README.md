@@ -7,8 +7,6 @@
 *Connect, manage, and collaborate on SSH hosts — with encrypted sync across all your devices.*
 
 [![Website](https://img.shields.io/badge/Website-closhell.clottis.net-blue?style=for-the-badge)](https://closhell.clottis.net)
-[![Downloads](https://img.shields.io/github/downloads/Irfan-Ahmad-byte/closhell-releases/total?style=for-the-badge&color=green)](https://github.com/Irfan-Ahmad-byte/closhell-releases/releases)
-[![Latest Release](https://img.shields.io/github/v/release/Irfan-Ahmad-byte/closhell-releases?style=for-the-badge)](https://github.com/Irfan-Ahmad-byte/closhell-releases/releases/latest)
 
 </div>
 
@@ -33,11 +31,11 @@
 
 | Platform | Download | Type |
 |----------|----------|------|
-| 🐧 **Linux** (Ubuntu/Debian) | [`.deb`](https://github.com/Irfan-Ahmad-byte/closhell-releases/releases/latest) | Installer |
-| 🐧 **Linux** (Fedora/RHEL) | [`.rpm`](https://github.com/Irfan-Ahmad-byte/closhell-releases/releases/latest) | Installer |
-| 🐧 **Linux** (Universal) | [`.AppImage`](https://github.com/Irfan-Ahmad-byte/closhell-releases/releases/latest) | Portable |
-| 🪟 **Windows** | [`.msi`](https://github.com/Irfan-Ahmad-byte/closhell-releases/releases/latest) | Installer |
-| 🪟 **Windows** | [`.exe`](https://github.com/Irfan-Ahmad-byte/closhell-releases/releases/latest) | NSIS Installer |
+| 🐧 **Linux** (Ubuntu/Debian) | [`.deb`](https://closhell.clottis.net/#download) | Installer |
+| 🐧 **Linux** (Fedora/RHEL) | [`.rpm`](https://closhell.clottis.net/#download) | Installer |
+| 🐧 **Linux** (Universal) | [`.AppImage`](https://closhell.clottis.net/#download) | Portable |
+| 🪟 **Windows** | [`.msi`](https://closhell.clottis.net/#download) | Installer |
+| 🪟 **Windows** | [`.exe`](https://closhell.clottis.net/#download) | NSIS Installer |
 
 > 💡 **AppImage users**: Make it executable with `chmod +x CloShell_*.AppImage` then run it.
 
@@ -45,7 +43,7 @@
 
 ## 🚀 Getting Started
 
-1. **Download** the installer for your platform from [Releases](https://github.com/Irfan-Ahmad-byte/closhell-releases/releases/latest)
+1. **Download** the installer for your platform from the [CloShell website](https://closhell.clottis.net/#download)
 2. **Install** and launch CloShell
 3. **Sign up** or log in with GitHub/Email
 4. **Add your first host** — enter hostname, port, username, and credentials
@@ -76,7 +74,7 @@
 
 ## 🐛 Issues & Feedback
 
-Found a bug or have a feature request? [Open an issue](https://github.com/Irfan-Ahmad-byte/closhell-releases/issues).
+Found a bug or have a feature request? Email [support@clottis.net](mailto:support@clottis.net).
 
 ---
 
@@ -90,6 +88,6 @@ CloShell is proprietary software by [Clottis](https://clottis.net). All rights r
 
 **Built with ❤️ using [Tauri](https://tauri.app) + React + Rust**
 
-[Website](https://closhell.clottis.net) · [Download](https://github.com/Irfan-Ahmad-byte/closhell-releases/releases/latest) · [Report Bug](https://github.com/Irfan-Ahmad-byte/closhell-releases/issues)
+[Website](https://closhell.clottis.net) · [Download](https://closhell.clottis.net/#download) · [Report Bug](mailto:support@clottis.net)
 
 </div>
